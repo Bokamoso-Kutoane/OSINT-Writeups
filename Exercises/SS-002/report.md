@@ -24,10 +24,15 @@ We are in a white dominant country, specifically in a city
   * Google search: Used Google Maps to search for "flinder street train station". Found a train station near Flinders Street in Melbourne, Australia
 * Step 2: 
   * Street View Verification: Cross-referenced findings with google Street View in station view
+
+![Evidence 01](./assets/Screenshot%207%20-%20Date%2027-03-2026.png)
+
 * Step 3:
   * Google Maps 3D verification: Cross-reference angle to get the name of the tallest building
+![Evidence 01](./assets/Screenshot%206%20-%20Date%2027-03-2026.png)
 * Step 4:
   * Google Search: Search the height of the buildings visible in the picture and determine the tallest
+![Evidence 01](./assets/Screenshot%208%20-%20Date%2027-03-2026.png)
 
 # 3. The Solution
 
