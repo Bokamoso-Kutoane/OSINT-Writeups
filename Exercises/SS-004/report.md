@@ -26,14 +26,14 @@ I'd like to think its somewhere near the Hawaii area, I feel like thats the usua
 * Step 2: 
   * Google Search: Found a website with the exact picture we were given and even more angles of the island. I presume its the correct island named Oan
 
-![Evidence 01](./assets/.png)
+![Evidence 01](./assets/2026-03-28-122658_hyprshot.png)
 
 * Step 3:
   * Google Maps 3D verification: Found the island and found the exact angle to get the 3 islands and the mountainy mountain on the edge of the photo
-![Evidence 02](./assets/.png)
+![Evidence 02](./assets/Screenshot-9-Date-28-03-2026.png)
 * Step 4:
   * Google Maps Compass: Got the angle of the picture and got the cardinal direction
-![Evidence 03](./assets/.png)
+![Evidence 03](./assets/2026-03-28-122828_hyprshot.png)
 
 # 3. The Solution
 
